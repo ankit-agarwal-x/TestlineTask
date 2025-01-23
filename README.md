@@ -48,6 +48,3 @@ A comprehensive Python-based solution for analyzing NEET quiz performance, provi
 - Identify strengths and weaknesses
 - Generate personalized recommendations
 
-# Visualization Screenshots
-
-![Screenshots of key visualizations and insights](TestlineTask/Screenshots of key visualizations and insights summary2.png)
