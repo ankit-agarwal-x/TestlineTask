@@ -49,5 +49,5 @@ A comprehensive Python-based solution for analyzing NEET quiz performance, provi
 - Generate personalized recommendations
 
 # Visualization Screenshots
-Screenshots of key visualizations and insights summary2.png
-![Screenshots of key visualizations and insights](Screenshots of key visualizations and insights summary1.png)
+
+![Screenshots of key visualizations and insights](TestlineTask/Screenshots of key visualizations and insights summary2.png)
